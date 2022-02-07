@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome"
 ---
-Sneha 
-cemp
+Have a nice day 
